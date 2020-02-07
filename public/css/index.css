@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+}
+/* --------------------------------------------------------------------------- */
+/* pagina index.html */
+
+ .princ{
+     text-decoration: none;
+ }
+ .titulo{
+    font-family: 'Noto Serif', serif;
+    color:white ;
+    font-size: 50px;
+    text-align: center;
+ }
+ .fondodiv{
+background-color: teal;
+width:50%;
+border-radius: 20px;
+ }
